@@ -601,5 +601,6 @@ Repositories are **sorted by GitHub stars** (highest first). **Star** and **fork
 | [velvet-pong-game](https://github.com/KaloudasDev/velvet-pong-game) | — | — | Minimalist, responsive pong game with adjustable difficulty levels, smooth animations, dynamic sound effects, and retro-modern UI design features. · From [committers.top Greece](https://committers.top/greece.html) (maintainer **KaloudasDev**). |
 | [AstroEmbedAutoimportError](https://github.com/VisualEhrmanntraut/AstroEmbedAutoimportError) | — | — | No description on GitHub—see the repository README. · From [committers.top Greece](https://committers.top/greece.html) (maintainer **VisualEhrmanntraut**). |
 | [rickychilcott.github.io](https://github.com/rickychilcott/rickychilcott.github.io) | — | — | rickychilcott.com · From [committers.top Greece](https://committers.top/greece.html) (maintainer **rickychilcott**). |
+| [BestPrice MCP](https://github.com/TheBestCo/bestprice-mcp) | — | — | Official **BestPrice.gr** MCP server and agent plugin (Claude, Codex, Gemini CLI, Cursor): read-only product search, current offers from Greek shops with delivered totals, and price history over a keyless remote endpoint. Apache-2.0. |
 
 *Each description is one line in the table; open the repository for the full README, licence, and contribution guidelines.*
